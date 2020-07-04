@@ -1,6 +1,7 @@
 # FlowLayout
 FlowLayout是自定义ViewGroup，实现了流式布局，自动换行的功能，并且可以控制最大行数，设置水平间距，垂直间距和子View垂直居中。
-![效果图](https://github.com/anyanyan07/FlowLayout/blob/master/screenShots/WechatIMG109.png)
+效果图:
+![Alt](https://github.com/anyanyan07/FlowLayout/blob/master/screenShots/WechatIMG109.png)
 
 使用方法：
 ### 在布局中声明，并设置自定义属性：
